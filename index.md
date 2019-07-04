@@ -1,13 +1,13 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "Welcome to SOLID Patterns"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: This site is maintained by a dedicated community of technology professionals committed to providing useful SOLID patterns in multiple programming languages, databases and cloud services.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="We're constructing this site using extraordinarily useful <a href='https://idratherbewriting.com/documentation-theme-jekyll/index.html'>Jekyll Doc Theme 6.0</a>. As we build it out, you will see sample docs here be replaced with our site docs." %}
 
 ## Build the Theme
 
